@@ -1,5 +1,5 @@
 server:
-  port: 80100
+  port: 8010
 
 jwt:
   secret-key: ekh32837389owhjeg3782rdshqjvg32975d37286763ry237652ryedgf6
