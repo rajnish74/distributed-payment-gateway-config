@@ -41,5 +41,5 @@ spring:
             - id: operation-service
               uri: lb://operation-service
               predicates:
-                - Path=/v1/operation/**
+                - Path=/webhook/**
   
