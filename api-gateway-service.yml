@@ -1,6 +1,9 @@
 server:
   port: 8080
 
+jwt:
+  secret-key: ekh32837389owhjeg3782rdshqjvg32975d37286763ry237652ryedgf6
+
 app:
   security:
     trust-inbound-headers: false
