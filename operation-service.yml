@@ -21,7 +21,7 @@ app:
       redis-key: "webhook-retry"
       poll-batch-size: 100
 
-resilence4j:
+resilience4j:
   circuitbreaker:
     instances:
       merchant-service:
