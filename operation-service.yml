@@ -43,8 +43,3 @@ resilence4j:
         max-attempts: 2
         wait-duration: 500ms
 
-app:
-  webhook:
-    delivery:
-      redis-key: "webhook-retry"
-      poll-batch-size: 100
